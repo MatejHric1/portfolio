@@ -184,6 +184,7 @@ section {
     animation: img 8s ease-in-out infinite;
     object-fit: cover;
     object-position: center;
+    border: 3px solid black;
 }
 
 .section_pic-container {
